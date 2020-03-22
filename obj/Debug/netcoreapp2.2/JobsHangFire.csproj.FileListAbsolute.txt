@@ -1,0 +1,14 @@
+C:\Users\nelso\projects\JobsHangFire\bin\Debug\netcoreapp2.2\JobsHangFire.deps.json
+C:\Users\nelso\projects\JobsHangFire\bin\Debug\netcoreapp2.2\JobsHangFire.runtimeconfig.json
+C:\Users\nelso\projects\JobsHangFire\bin\Debug\netcoreapp2.2\JobsHangFire.runtimeconfig.dev.json
+c:\Users\nelso\projects\JobsHangFire\bin\Debug\netcoreapp2.2\JobsHangFire.dll
+c:\Users\nelso\projects\JobsHangFire\bin\Debug\netcoreapp2.2\JobsHangFire.pdb
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.csprojAssemblyReference.cache
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.RazorAssemblyInfo.cache
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.RazorAssemblyInfo.cs
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.AssemblyInfoInputs.cache
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.AssemblyInfo.cs
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.RazorTargetAssemblyInfo.cache
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.dll
+c:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.pdb
+C:\Users\nelso\projects\JobsHangFire\obj\Debug\netcoreapp2.2\JobsHangFire.csproj.CoreCompileInputs.cache
